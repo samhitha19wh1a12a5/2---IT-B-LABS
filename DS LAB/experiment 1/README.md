@@ -25,7 +25,7 @@ When i > n we will be printing that the element is not found in the array.
 ##OUTPUT :
 
 for key 36:
-![test image 1](output.png)
+
  
  
 
