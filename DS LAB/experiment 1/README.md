@@ -29,7 +29,7 @@ for key 100:
 ![for key 100](output3.png)
 
 program :
-![code](code.PNG)
+![code](code.png)
 
 
 
