@@ -22,9 +22,11 @@ When i > n we will be printing that the element is not found in the array.
 
  As 100 is not there in my array the output shows as element is not found.
 
-##OUTPUT :
+##OUTPUT :For key 36
 ![output](output)
 
+for key 100:
+![for key 100](output3.png)
 
 
 
