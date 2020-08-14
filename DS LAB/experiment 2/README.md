@@ -42,6 +42,9 @@ My next key value is 92 which is after the mid value,so i=mid+1 and n=9.
  for key 12:
  ![bs1](bs1.png)
  
+ for key 33:
+ ![bs2](bs2.png)
+ 
  
  
  
