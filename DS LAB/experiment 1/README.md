@@ -28,6 +28,9 @@ When i > n we will be printing that the element is not found in the array.
 for key 100:
 ![for key 100](output3.png)
 
+program :
+![code](code.PNG)
+
 
 
  
