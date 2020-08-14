@@ -23,7 +23,7 @@ When i > n we will be printing that the element is not found in the array.
  As 100 is not there in my array the output shows as element is not found.
 
 ##OUTPUT :
-![for key 36](output.png)
+![output](output)
 
 
 
