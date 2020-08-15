@@ -18,10 +18,15 @@ and the last element position is "n" which is "9".
  My key value is 36,and it compares from the first element until it gets 36.
  
  My first element is 12 ,not equal to my key element.
+ 
   My second element is 61,not equal to my key.
+  
  My third element is 33,not equal to my key.
- My fourth element is 92,not egual to my key.
+ 
+ My fourth element is 92,not equal to my key.
+ 
  My fifth element is 36 = 36 (equal to my key)
+ 
  So, the output is given as "4" as we saying to print it.
 
  And the next condition is if key value is not present in the array
