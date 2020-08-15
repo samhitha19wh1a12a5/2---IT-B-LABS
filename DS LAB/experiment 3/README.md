@@ -26,3 +26,7 @@ OUTPUT:
 output 1(key element = 36) :The element 36 is made to match with every element of the array.When it reaches the 4th index element it matches and returns the position of key element.
 
 ![recursive](output.png)
+ 
+output 2(key element =100):The element 100 is made to match with every element of the array,as the element doesnt match with the elements in the array it reurns the element is not found.
+
+![ls](output4.png)
