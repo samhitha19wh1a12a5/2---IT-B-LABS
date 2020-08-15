@@ -1,6 +1,6 @@
 #AIM OF THE EXPERIMENT :Writing linear search program  by using non recursive functions.
 
-##LINEAR SEARCH:This is to find whether a number is present in an array.If it is present,then what location it occurs..we will be comparing each element to search until we find it.
+##LINEAR SEARCH:This is to find whether a number is present in an array.If it is present,then what location it occurs..we will be comparing each element to search until we find it.Whether  the array is in sorted way or not it doesnt matter.
 
 ###STEP BY STEP PROCEDURE :
 
@@ -15,7 +15,14 @@ and the last element position is "n" which is "9".
 
  if the condition a[i]==key is true ,then the key element position is given as output as we are saying to print the position of key value.
 
- My key value is 36,and it compares from the first element until it gets 36.when it finds the key value it gives the output as "4".
+ My key value is 36,and it compares from the first element until it gets 36.
+ 
+ My first element is 12 ,not equal to my key element.
+  My second element is 61,not equal to my key.
+ My third element is 33,not equal to my key.
+ My fourth element is 92,not egual to my key.
+ My fifth element is 36 = 36 (equal to my key)
+ So, the output is given as "4" as we saying to print it.
 
  And the next condition is if key value is not present in the array
 When i > n we will be printing that the element is not found in the array.
