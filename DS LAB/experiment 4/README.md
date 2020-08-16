@@ -29,3 +29,6 @@ OUTPUT 2(key element = 33)mid value is (0+9/2)=4.5. In this case mid > element t
 
 ![output](brrr2.png)
 
+OUTPUT 3:(key element = 92)mid value is 4.5.in this case mid < element then i = mid + 1 and the procedure will continue until key element matches with mid position then we will get index of key element as 8.
+
+![output](brrr3.png)
