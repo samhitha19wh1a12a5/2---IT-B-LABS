@@ -3,7 +3,7 @@ AIM : Writing a binary search program using recursive functions.
 STEP BY STEP PROCEDURE:
 
 In binary search we need to sort the 
-array.
+array.{3,12,29,33,36,54,60,61,92,98}.
 
 Consider a key element.Here the starting index is 0 and ending index is 9.
 
@@ -25,4 +25,7 @@ OUTPUT 1(key element= 12) Mid value is (0+9/2) = 4.5.In this case mid > element 
 
 ![output](brrr1.png)
 
+OUTPUT 2(key element = 33)mid value is (0+9/2)=4.5. In this case mid > element then n=mid - 1 and the procedure will continue until key element matches with mid position then we will get index of key element as 3.
+
+![output](brrr2.png)
 
