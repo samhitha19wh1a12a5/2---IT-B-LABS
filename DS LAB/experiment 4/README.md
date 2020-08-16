@@ -23,6 +23,6 @@ OUTPUT:
 
 OUTPUT 1(key element= 12) Mid value is (0+9/2) = 4.5.In this case mid > element then n= mid - 1 and the procedure will continue until key element matches with mid position then we will get index of the key element as 1.
 
-![br](binary recursion 1.png)
+![output](brrr1.png)
 
 
