@@ -5,7 +5,7 @@ times.
 
 STEP BY STEP PROCEDURE:
  
-In the linear function declare the variables a,element,i,n,index.Which is user defined function.
+In the linear function declare the variables a,element,i,n,index.Which is user defined function.a[i]={12,61,33,92,36,3,29,98,54,60}.
 
 Check every element in the array until the value of i is less than or equal to n.
 
