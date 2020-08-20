@@ -1,1 +1,5 @@
+CHECKING WHETHER THE INTEGER IS ODD OR EVEN.
 
+PROGRAM:
+
+![output](odd.png)
