@@ -1,1 +1,5 @@
+PROGRAM TO CALCULATE THE SUM OF FIRST N NATUARAL NUMBERS.
 
+program :
+
+![output](sum.png)
