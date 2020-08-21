@@ -3,3 +3,7 @@ PROGRAM TO CALCULATE THE SUM OF MAXIMUM OF 10 NUMBERS,IF A NEGATIVE NUMBER IS EN
 program:
 
 ![output](break.png)
+
+output:
+
+![output](breakou.png)
