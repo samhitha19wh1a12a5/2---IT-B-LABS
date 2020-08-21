@@ -1,1 +1,6 @@
 
+PROGRAM TO RELATE TWO INTEGERS USING =,<,> SYMBOLS.
+
+PROGRAM:
+
+![output](relate.png)
