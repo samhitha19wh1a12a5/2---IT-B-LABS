@@ -3,3 +3,7 @@ program to calculate the sum of maximum of 10 numbers,negative numbers are skipp
 program :
 
 ![output](continue.png)
+
+output:
+![output](continueou.png)
+
