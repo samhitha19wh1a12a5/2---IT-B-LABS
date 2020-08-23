@@ -108,7 +108,7 @@ pletion of 5 th iteration) are:
 Procedure of obtaining output:
 1. Read elements of the array and number of the array elements.
 
-2. Here n = 5 and array = {12,34,9,89,24,21}
+2. Here n = 6 and array = {12,34,9,89,24,21}
 
 1 st iteration:
 12,34,9,89,24,21
