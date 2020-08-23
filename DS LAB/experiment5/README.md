@@ -50,7 +50,8 @@ arranged in ascending order.
 5. So, after entering the elements (that are already sorted), it
  prints &amp; quot;The elements are already sorted.&amp; quot;
 
-ii) Bubble sorting of sorted array
+ii) Bubble sorting of unsorted array.
+
 Procedure of obtaining output:
 
 1. Read elements of the array and number of the array elements.
@@ -158,6 +159,10 @@ OUTPUT:
 for sorted array
 
 ![output](input1.png)
+
+for unsorted array{1,-2,8,99,-94,100}
+
+![output](input2.png)
 
 
 
