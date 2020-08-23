@@ -1,10 +1,10 @@
 Aim of the experiment:
 To perform bubble sort of an unsorted and sorted array.
-Array (i): 1, 2, 3, 4, 5
+Array (i):66,78,99,100,110
 
-Array (ii): -1,4,2,-8,9
+Array (ii): 1,-2,8,99,-94,100
 
-Array (iii): 2,1,4,3,5
+Array (iii):12,34,9,89,24,21 
 
 Brief description of Bubble sort:
 
@@ -34,6 +34,8 @@ them.
 
 Output obtained:
 (i)Bubble sorting of sorted array
+
+![output](input1.png)
 
 Procedure of obtaining output:
 1. Read elements of the array and number of the array elements.
