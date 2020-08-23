@@ -35,7 +35,7 @@ them.
 Output obtained:
 (i)Bubble sorting of sorted array
 
-![output](input1.png)
+
 
 Procedure of obtaining output:
 1. Read elements of the array and number of the array elements.
@@ -155,7 +155,9 @@ pletion of 5 th iteration) are:9,12,21,24,34,89.
 
 OUTPUT:
 
-for sorted array{
+for sorted array
+
+![output](input1.png)
 
 
 
